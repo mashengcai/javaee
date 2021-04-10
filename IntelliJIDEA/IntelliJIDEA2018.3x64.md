@@ -11,3 +11,18 @@
 	Default encoding for properties files：UTF-8
 	Create UTF-8 files：with NO BOM
 </pre>
+
+<h3>二、war exploded</h3>
+<pre>
+问题：
+Artifact exp3:war exploded: Error during artifact deployment. See server log for details.
+解决：
+【File】->【Project Structure】->【Artifacts】
+出现黄色的波浪线异常提示，删除后重新添加【Web Application:Exploded】->【From Modules...】点击【Apply】
+</pre>
+
+<h3>三、添加lib如servlet-api.jar</h3>
+<pre>
+【File】->【Project Structure】->【Libraries】->【+】->【java】
+选中D:\Program Files (x86)\java\apache-tomcat-8.5.65\lib\servlet-api.jar
+</pre>

