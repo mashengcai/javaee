@@ -10,22 +10,14 @@
     <listener>
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
     </listener>
-
-    <!-- SpringMVC 的前端控制器 -->
     <servlet>
         <servlet-name>dispatcher</servlet-name>
         <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
     </servlet>
-
-    <!-- 拦截了以 ".form" 结尾的URL请求，Web 应用接收到该类请求之后 , 会调用前端控制器-->
     <servlet-mapping>
         <servlet-name>dispatcher</servlet-name>
-        <url-pattern>*.form</url-pattern>
+        <!-- 拦截所有的请求:拦截请求发送给 Spring MVC 控制器 -->
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
-
-    <welcome-file-list>
-        <welcome-file>index.jsp</welcome-file>
-    </welcome-file-list>
-
 </web-app>
